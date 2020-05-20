@@ -1,0 +1,3 @@
+C:/Users/akram/OneDrive/Desktop/Backup/Mac Backup/CLionProjects/Project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/akram/OneDrive/Desktop/Backup/Mac Backup/CLionProjects/Project1/cmake-build-debug/CMakeFiles/Project1.dir
+C:/Users/akram/OneDrive/Desktop/Backup/Mac Backup/CLionProjects/Project1/cmake-build-debug/CMakeFiles/edit_cache.dir

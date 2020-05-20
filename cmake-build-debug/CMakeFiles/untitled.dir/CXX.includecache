@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/akram/OneDrive/Desktop/Backup/Mac Backup/CLionProjects/Project1/LinkedList.h
+iostream
+-
+string
+-
+sstream
+-
+vector
+-
+
+C:/Users/akram/OneDrive/Desktop/Backup/Mac Backup/CLionProjects/Project1/main.cpp
+LinkedList.h
+C:/Users/akram/OneDrive/Desktop/Backup/Mac Backup/CLionProjects/Project1/LinkedList.h
+iostream
+-
+string
+-
+vector
+-
+
